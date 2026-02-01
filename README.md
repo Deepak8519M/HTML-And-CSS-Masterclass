@@ -1,4 +1,4 @@
-﻿# Master HTML & CSS
+﻿# MASTER HTML & CSS
 
 ##### Learn HTML & CSS In [14 hours] & also build clean and Modern designs (Totally Free).
 
